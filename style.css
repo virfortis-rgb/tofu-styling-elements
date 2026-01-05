@@ -1,2 +1,11 @@
 @import url('./styles/header.css');
 @import url('./styles/card-list.css');
+@import url('./styles/container.css');
+
+body {
+  margin: 0;
+}
+
+.margin-header {
+  margin: 1rem;
+}
