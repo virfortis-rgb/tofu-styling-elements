@@ -1,0 +1,44 @@
+.list-item {
+  width: 96%;
+  margin: 0.2rem;
+  border-bottom: 0.1rem solid lightgrey;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-list-item-check {
+  margin-inline: 0.2rem;
+  display: flex;
+}
+
+#list-item-check {
+  margin-right: 0.4rem;
+}
+
+.container-list-item-check > label {
+  align-self: center;
+}
+
+.list-item-store {
+  margin-inline: 0.2rem;
+  display: flex;
+}
+
+.list-item-store > p {
+  margin: 0;
+}
+
+.container-list-item-price {
+  margin-inline: 0.2rem;
+  display: flex;
+}
+
+.container-list-item-price > p {
+  margin: 0;
+  margin-inline: 0.2rem;
+}
+
+#list-item-compare-button {
+  margin-inline: 0.2rem;
+  align-self: center;
+}

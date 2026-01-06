@@ -20,8 +20,9 @@
 .list-subtitle > p  {
   color: lightgrey;
   font-weight: 200;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0;
+  margin-inline: 0.2rem;
 }
 
 .list-updated {
@@ -31,7 +32,7 @@
 .list-updated > p {
   color: lightgrey;
   font-weight: 200;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0.2rem;
   align-self: end;
 }

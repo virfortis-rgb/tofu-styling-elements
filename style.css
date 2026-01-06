@@ -1,6 +1,7 @@
 @import url('./styles/header.css');
 @import url('./styles/card-list.css');
 @import url('./styles/container.css');
+@import url('./styles/list-item.css');
 
 body {
   margin: 0;
