@@ -13,3 +13,7 @@ body {
 .margin-header {
   margin: 1rem;
 }
+
+@media and screen (max-width: 600px){
+
+}
