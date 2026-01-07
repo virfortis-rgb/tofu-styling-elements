@@ -1,0 +1,44 @@
+.colors-and-headers {
+  margin: 1rem;
+}
+
+.green {
+  background-color: #335a3b;
+}
+
+.light-green {
+  background-color: #e5f3e9;
+}
+
+.off-white {
+  background-color: #f2eee3;
+}
+
+.off-white-light {
+  background-color: #fefefc;
+}
+
+.grey {
+  background-color: #9e9c95;
+}
+
+.dark-grey {
+  background-color: #494845;
+}
+
+.opposite {
+  background-color: #e5e8f3;
+}
+
+/* Fonts */
+
+.quicksand-p {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.text-green {
+  color: #335a3b;
+}

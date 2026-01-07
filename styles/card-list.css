@@ -18,7 +18,7 @@
 }
 
 .list-subtitle > p  {
-  color: lightgrey;
+  color: #9e9c95;
   font-weight: 200;
   font-size: 0.8rem;
   margin: 0;
@@ -30,7 +30,7 @@
 }
 
 .list-updated > p {
-  color: lightgrey;
+  color: #9e9c95;
   font-weight: 200;
   font-size: 0.8rem;
   margin: 0.2rem;
@@ -41,5 +41,5 @@
 
 .list-items-container {
   margin: 1rem;
-  border-top: 0.2rem solid lightgrey;
+  border-top: 0.2rem solid #9e9c95;
 }

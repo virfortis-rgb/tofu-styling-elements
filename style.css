@@ -6,6 +6,8 @@
 
 @import url('./styles/landing-page.css');
 
+@import url('./styles/colors-and-headers.css');
+
 body {
   margin: 0;
 }
